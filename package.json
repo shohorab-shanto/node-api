@@ -1,0 +1,9 @@
+{
+  "scripts":{
+    "start":"nodemon start"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "nodemon": "^2.0.20"
+  }
+}
